@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Caitrín Hall"
 title_separator          : "-"
-name                     : &name "Caitrín Hall"
+name                     : "Caitrín Hall"
 description              : &description "Graduate Student at the University of Conencticut"
 url                      : https://caitrinhall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
