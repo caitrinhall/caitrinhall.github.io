@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Caitrín Jané"
+title: "Caitrín Hall"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a graduate student in the [Department of Psychological Sciences](https://psychology.uconn.edu/) at the University of Connecticut. My PhD concentration is [Ecological Psychology](https://psychology.uconn.edu/phd/ecological-psychology/)——the study of biological perception, action, and cognition from the fundamental assumption of organism-environment mutuality.
+**About me**
+I'm currently a graduate student in the [Department of Psychological Sciences](https://psychology.uconn.edu/) at the University of Connecticut. My PhD concentration is [Ecological Psychology](https://psychology.uconn.edu/phd/ecological-psychology/)—the study of biological perception, action, and cognition from the fundamental assumption of organism-environment mutuality.
 
 A data-driven personal website
 ======
