@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**About me**
-I'm currently a graduate student in the [Department of Psychological Sciences](https://psychology.uconn.edu/) at the University of Connecticut. My PhD concentration is [Ecological Psychology](https://psychology.uconn.edu/phd/ecological-psychology/)—the study of biological perception, action, and cognition from the fundamental assumption of organism-environment mutuality.
+About me
+======
+I'm currently a graduate student in the [Department of Psychological Sciences](https://psychology.uconn.edu/) at the University of Connecticut. My PhD concentration is [Ecological Psychology](https://psychology.uconn.edu/phd/ecological-psychology/)—the study of biological perception, action, and cognition from the fundamental assumption of organism-environment mutuality. I am a graduate research assistant in the [dyscord lab](https://dyscord-lab.github.io/), advised by [Alex Paxton](https://alexandrapaxton.com/), and a member of the [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/).
 
 A data-driven personal website
 ======
