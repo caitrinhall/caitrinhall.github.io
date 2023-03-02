@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**B.S. in Cognitive Science**  
+Minor: Spanish  
+University of Connecticut  
+*December 2019*  
+
+**Ph.D in Psychological Sciences**  
+Concentration: Ecological Psychology  
+University of Connecticut  
+*May 2025 (anticipated)*  
 
 Work experience
 ======
