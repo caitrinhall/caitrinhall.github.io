@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-**B.S. in Cognitive Science**  
-Minor: Spanish  
-University of Connecticut  
-*December 2019*  
-
 **Ph.D in Psychological Sciences**  
 Concentration: Ecological Psychology  
 University of Connecticut  
-*May 2025 (anticipated)*  
+*December 2025 (anticipated)*  
+
+**B.S. in Cognitive Science**  
+Minor: Spanish  
+University of Connecticut  
+*December 2019*   
 
 Work experience
 ======
