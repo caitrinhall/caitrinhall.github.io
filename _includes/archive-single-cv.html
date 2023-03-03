@@ -12,7 +12,12 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<!-- Figure out what symbol we need -->
+{% if post.collection %}
+  {% assign collection = post.collection %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px;">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
     <!-- add teaser if we have it -->
@@ -48,5 +53,6 @@
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     </li> -->
- </article>
+    </p>
+  </article>
 </div>
