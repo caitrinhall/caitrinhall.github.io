@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-===
+## Education
 
 <p style="margin-left: 40px">
 <b>Ph.D in Psychological Sciences</b>
@@ -24,8 +23,30 @@ Education
 <br>University of Connecticut  
 <br><i>December 2019</i></p>   
 
-Work experience
-=====
+## Peer-Reviewed Journal Publications
+
+  {% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+  
+## Conference Talks and Posters
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+## Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Service and leadership
+
+* Currently signed in to 43 different slack teams
+
+## Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -36,33 +57,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-=====
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-=====
-  {% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-  
-Talks
-=====
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-=====
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-=====
-* Currently signed in to 43 different slack teams
