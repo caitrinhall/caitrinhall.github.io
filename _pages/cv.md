@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 Education
-=====
+===
 
 <p style="margin-left: 40px">
-**Ph.D in Psychological Sciences**  
-Concentration: Ecological Psychology  
-University of Connecticut  
-*December 2025 (anticipated)*</p>  
+<b>Ph.D in Psychological Sciences</b>
+<br>Concentration: Ecological Psychology
+<br>University of Connecticut
+<br><i>December 2025 (anticipated)</i></p>  
 
 <p style="margin-left: 40px">
-**B.S. in Cognitive Science**  
-Minor: Spanish  
-University of Connecticut  
-*December 2019*</p>   
+<b>B.S. in Cognitive Science</b>
+<br>Minor: Spanish  
+<br>University of Connecticut  
+<br><i>December 2019</i></p>   
 
 Work experience
 =====
