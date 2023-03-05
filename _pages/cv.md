@@ -24,7 +24,7 @@ redirect_from:
 <br><i>December 2019</i></p>   
 
 ## Peer-Reviewed Journal Publications
-You can also find my articles on <u><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=YliGD2YAAAAJ" style="color:#52adc8">my Google Scholar profile</a>.</u>  
+You can also find my articles on <u><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=YliGD2YAAAAJ" style="color:#0C16A7">my Google Scholar profile</a>.</u>  
 <br>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}
