@@ -19,4 +19,4 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
  * Yoga etc.
 
 <!-- ![Yoga etc.](/images/yoga in mauritius.png) -->
-<img src="/images/yoga in mauritius.png" width=50% height=50%>
+<img src="https://github.com/caitrinhall/caitrinhall.github.io/blob/master/images/yoga%20in%20mauritius.png" width=50% height=50%>
