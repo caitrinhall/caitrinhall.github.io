@@ -18,6 +18,4 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
 **Personal Interests**  
  * Yoga etc.
 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Yoga etc.](/images/yoga in mauritius.JPG)
