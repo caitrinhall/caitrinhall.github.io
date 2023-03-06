@@ -21,6 +21,6 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
 <!-- ![Yoga etc.](/images/yoga in mauritius.JPG) -->
 <div style="width: 60%; height: 60%">
   
-  ![](/images/yoga in mauritius.JPG)
+  ![image](/images/yoga in mauritius.JPG)
   
 </div>
