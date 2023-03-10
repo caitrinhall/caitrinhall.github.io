@@ -18,6 +18,6 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
 <br/>Overall, I believe it is essential that I ground my scientific questions and findings in the local community. Through my research, I aim to advocate for more widely accessible group yoga and mindfulness interventions in order to bolster social connectivity and improve wellbeing.  
 
 **Personal Interests**  
- * [Yoga etc.](/images/yoga-in-mauritius-small.png)
+ * Yoga etc. ![](/images/yoga-in-mauritius-small.png)
  
 <!--- <br/><img src='../images/yoga-in-mauritius.png' width=80% height=80%> --->
