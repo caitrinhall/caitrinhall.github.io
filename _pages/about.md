@@ -16,6 +16,6 @@ I'm currently a doctoral student in the [Department of Psychological Sciences](h
 I use nonlinear methods to study interpersonal dynamics, with an interest in group synchrony and social connectedness. My work explores how synchronizing with others impacts physiological and self-reported health outcomes in various settings. Currently, I study this in the context of yoga and mindfulness practices. As a graduate affiliate of the [Experimental Anthropology Lab](https://www.experimentalanthropology.com/), I also led a related research project in Mauritius in 2022. There, we collected self-reported and physiological data during religious rituals. Overall, I believe it is essential that I ground my scienctific questions and findings in the local community. Through my research, I aim to advocate for more widely accessible group yoga and mindfulness interventions in order to bolster social connectivity and improve wellbeing.  
 
 **Personal Interests**  
- * Yoga etc.<br/><img src='../caitrinhall/caitrinhall.github.io/blob/master/images/yoga-in-mauritius.png' width=80% height=80%>
+ * Yoga etc.<br/><img src='https://github.com/caitrinhall/caitrinhall.github.io/blob/619a056edb66a6b62c82e559c8a60ecf0a7fa9d9/images/yoga-in-mauritius.png' width=80% height=80%>
 
 <!-- ![Yoga etc.](/images/yoga in mauritius.png) -->
