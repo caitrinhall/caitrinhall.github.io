@@ -17,6 +17,7 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
 
 **Personal Interests**  
  * Yoga etc.
- <br/><img src='https://github.com/caitrinhall/caitrinhall.github.io/blob/619a056edb66a6b62c82e559c8a60ecf0a7fa9d9/images/yoga-in-mauritius.png' width=80% height=80%>
+ 
+<br/><img src='images/yoga-in-mauritius.png' width=80% height=80%>
 
 <!-- ![Yoga etc.](/images/yoga in mauritius.png) -->
