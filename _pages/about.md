@@ -21,7 +21,7 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
 My most joyous and fulfilling moments often occur while I'm practicing and teaching yoga, running outdoors, going to the gym, making music, and connecting with people. I completed 200 hours of yoga teacher training in 2018. Since then, I have taught yoga in a variety of settings, including at the beach, fitness centers, yoga studios, and virtually. As a yoga teacher and more broadly as an educator, I have a passion for inspiring people to learn and evolve.  
 
 <p align="center">
-<img src='../images/yoga-in-mauritius.png' />
+<img src='../images/yoga-in-mauritius.png' width=80%, height=80% />
 <br/><sub><i>Photo of Caitrín leading a complimentary sunset yoga class at the beach in Flic en Flac, Mauritius in June of 2022.</i></sub>
 </p>
    ![](/images/yoga-in-mauritius-small.png)
