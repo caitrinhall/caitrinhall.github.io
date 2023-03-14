@@ -22,5 +22,5 @@ My most joyous and fulfilling moments often occur while I'm practicing and teach
 
 <p align="center">
 <img src='../images/yoga-in-mauritius.png' width="575" height="250" />
-<br/><sub><i>Photo of Caitrín leading a complimentary sunset beach yoga class in Flic en Flac, Mauritius in June 2022.</i></sub>
+<br/><sub><i>Photo of Caitrín leading complimentary sunset beach yoga in Flic en Flac, Mauritius in July 2022.</i></sub>
 </p>
