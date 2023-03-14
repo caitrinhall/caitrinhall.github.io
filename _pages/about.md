@@ -18,6 +18,8 @@ I use nonlinear methods to study interpersonal dynamics, with an interest in gro
 <br/>Overall, I believe it is essential that I ground my scientific questions and findings in the local community. Through my research, I aim to advocate for more widely accessible group yoga and mindfulness interventions in order to bolster social connectivity and improve wellbeing.  
 
 **Personal Interests**  
- * Yoga etc. ![](/images/yoga-in-mauritius-small.png)
+My most joyous and fulfilling moments often occur while I'm practicing and teaching yoga, running outdoors, going to the gym, making music, and connecting with people. I completed 200 hours of yoga teacher training in 2018. Since then, I have taught yoga in a variety of settings, including at the beach, fitness centers, yoga studios, and virtually. As a yoga teacher and more broadly as an educator, I have a passion for inspiring people to learn and evolve.  
+
+![](/images/yoga-in-mauritius-small.png)
  
 <!--- <br/><img src='../images/yoga-in-mauritius.png' width=80% height=80%> --->
