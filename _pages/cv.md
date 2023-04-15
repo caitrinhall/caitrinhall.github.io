@@ -25,14 +25,14 @@ redirect_from:
 
 ## Peer-Reviewed Journal Publications
 You can also find my articles on <u><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=YliGD2YAAAAJ" style="color:#0C16A7">my Google Scholar profile</a>.</u>
-<br/>{% for post in site.publications %}
+<br/>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   
 ## Conference Talks and Posters
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Teaching
