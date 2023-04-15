@@ -31,13 +31,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   
 ## Conference Talks and Posters
 
-  <ul>{% for post in site.talks reversed %}
+<ul>{% for post in site.talks reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Teaching
 
-  <ul>{% for post in site.teaching %}
+<ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
