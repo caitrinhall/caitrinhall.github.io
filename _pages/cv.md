@@ -15,7 +15,7 @@ redirect_from:
 <b>Ph.D in Psychological Sciences</b>
 <br>Concentration: Ecological Psychology
 <br>University of Connecticut
-<br><i>December 2025 (anticipated)</i></p>  
+<br><i>May 2025 (anticipated)</i></p>  
 
 <p style="margin-left: 40px">
 <b>B.S. in Cognitive Science</b>
