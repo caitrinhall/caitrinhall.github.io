@@ -36,14 +36,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% endfor %}
   
 ## Funding & Awards
-
 <b>Fellowships:</b>
 <p style="margin-left: 40px">
-<br>Science of Learning and Art of Communication
+Science of Learning and Art of Communication
 <br>Graduate Fellowship (\$34,000)
-<br>Funded by the NSF through UConn</p>
-
-<p style="margin-left: 40px">
+<br>Funded by the NSF through UConn
+  
 <br>The Connecticut Institute for the Brain and Cognitive Sciences
 <br>Graduate Fellowship (\$5,000)
 <br>University of Connecticut</p>
