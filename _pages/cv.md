@@ -35,27 +35,57 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     {% include archive-single-cv.html %}
   {% endfor %}
   
-## Teaching
+## Research Experience
 
-{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
+<p style="margin-left: 40px">
+<b>Graduate Research Assistant</b>
+<br>dyscord lab
+<br>Department of Psychological Sciences
+<br>University of Connecticut, Storrs
+<br>Advisor: Alexandra Paxton
+<br><i>January 2020-Present</i></p> 
+
+<p style="margin-left: 40px">
+<b>Graduate Research Assistant</b>
+<br>Experimental Anthropology Lab
+<br>Department of Anthropology
+<br>University of Connecticut, Storrs
+<br>Principle Investigator: Dimitris Xygalatas
+<br><i>January 2020-Present</i></p> 
+
+<p style="margin-left: 40px">
+<b>Undergraduate Research Assistant</b>
+<br>Music Dynamics Lab
+<br>Department of Psychological Sciences
+<br>University of Connecticut, Storrs
+<br>Principle Investigator: Edward Large
+<br><i>June 2018-December 2019</i></p> 
+
+## Teaching Experience
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Instructor of Record</b>
+<br>General Psychology I Lecture
+<br>University of Connecticut, Hartford
+<br><i>Spring 2023</i></p> 
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Teaching Assistant</b>
+<br>General Psychology I Lab (Honors)
+<br>University of Connecticut, Storrs
+<br>IORs: Alexandra Paxton, Umay Suanda
+<br><i>Fall 2022, Spring 2023</i></p> 
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Teaching Assistant</b>
+<br>General Psychology I Lab
+<br>University of Connecticut, Storrs
+<br>IORs: Alexandra Paxton, Eric Lunquist
+<br><i>Spring 2020, Fall 2020, Spring 2021</i></p> 
   
 ## Service and leadership
 
 * Currently signed in to 43 different slack teams
-
-## Work experience
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 ## Skills
 
