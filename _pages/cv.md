@@ -36,13 +36,23 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% endfor %}
   
 ## Funding & Awards
+
 <b>Fellowships:</b>
+
 <p style="margin-left: 40px">Science of Learning and Art of Communication
-<br>Graduate Fellowship (\$34,000)
+<br>Graduate Fellowship, 2021-2022 (\$34,000)
 <br>Funded by the NSF through UConn</p>
+
 <p style="margin-left: 40px">The Connecticut Institute for the Brain and Cognitive Sciences
-<br>Graduate Fellowship (\$5,000)
+<br>Graduate Fellowship, 2021 (\$5,000)
 <br>University of Connecticut</p>
+
+<br><b>Travel Awards:</b>
+<p style="margin-left: 40px">
+<br>Psychological Sciences Department Travel Award, 2023 (\$500)
+<br>Science of Language and Art of Communication Travel Award, 2023 (\$2,000)
+<br>Psychological Sciences Department Travel Award, 2022 (\$500)
+<br>Science of Language and Art of Communication Travel Award, 2022 (\$1,000)</p>
 
 ## Research Experience
 
