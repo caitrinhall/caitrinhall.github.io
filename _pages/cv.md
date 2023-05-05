@@ -38,21 +38,31 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Funding & Awards
 
 <b>Fellowships:</b>
+<p style="margin-left: 40px">Science of Learning and Art of Communication
+<br>2023 Summer Fellowship (\$2,833)
+<br>Funded by the National Science Foundation through UConn</p>
 
 <p style="margin-left: 40px">Science of Learning and Art of Communication
-<br>Graduate Fellowship, 2021-2022 (\$34,000)
-<br>Funded by the NSF through UConn</p>
+<br>2021-22 Graduate Fellowship (\$34,000)
+<br>Funded by the National Science Foundation through UConn</p>
 
 <p style="margin-left: 40px">The Connecticut Institute for the Brain and Cognitive Sciences
-<br>Graduate Fellowship, 2021 (\$5,000)
+<br>2021 Graduate Fellowship (\$5,000)
 <br>University of Connecticut</p>
 
-<br><b>Travel Awards:</b>
-<p style="margin-left: 40px">
-<br>Psychological Sciences Department Travel Award, 2023 (\$500)
-<br>Science of Language and Art of Communication Travel Award, 2023 (\$2,000)
-<br>Psychological Sciences Department Travel Award, 2022 (\$500)
-<br>Science of Language and Art of Communication Travel Award, 2022 (\$1,000)</p>
+<b>Travel Awards:</b>
+<p style="margin-left: 40px">2023 Psychological Sciences Department Travel Award (\$500)
+<br>2023 Science of Language and Art of Communication Travel Award (\$2,000)
+<br>2022 Psychological Sciences Department Travel Award (\$500)
+<br>2022 Science of Language and Art of Communication Travel Award (\$1,000)</p>
+
+<b>Undergraduate Scholarships:</b>
+<p style="margin-left: 40px">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
+<br>2019 Global Citizen Scholarship (\$450)
+<br>2019 McMahon Family Endowment for Global Education (\$750)
+<br>2016 Bobb-Koths Plant Science Scholarship (\$1,200)
+<br>2016 Smyrski Farm Scholarship (\$1,200)
+<br>2015-19 Presidential Scholars Award for Valedictorians (\$15,000/year)</p>
 
 ## Research Experience
 
