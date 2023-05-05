@@ -38,26 +38,24 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Funding & Awards
 
 <b>Fellowships:</b>
-<p style="margin-left: 40px">Science of Learning and Art of Communication
+<p style="margin-left: 40px"><b>Science of Learning and Art of Communication</b>
 <br>2023 Summer Fellowship (\$2,833)
 <br>Funded by the National Science Foundation through UConn</p>
 
-<p style="margin-left: 40px">Science of Learning and Art of Communication
+<p style="margin-left: 40px"><b>Science of Learning and Art of Communication</b>
 <br>2021-22 Graduate Fellowship (\$34,000)
 <br>Funded by the National Science Foundation through UConn</p>
 
-<p style="margin-left: 40px">The Connecticut Institute for the Brain and Cognitive Sciences
+<p style="margin-left: 40px"><b>The Connecticut Institute for the Brain and Cognitive Sciences</b>
 <br>2021 Graduate Fellowship (\$5,000)
 <br>University of Connecticut</p>
 
-<b>Travel Awards:</b>
-<p style="margin-left: 40px">2023 Psychological Sciences Department Travel Award (\$500)
+<b>Travel Awards:</b> <p style="margin-left: 40px">2023 Psychological Sciences Department Travel Award (\$500)
 <br>2023 Science of Language and Art of Communication Travel Award (\$2,000)
 <br>2022 Psychological Sciences Department Travel Award (\$500)
 <br>2022 Science of Language and Art of Communication Travel Award (\$1,000)</p>
 
-<b>Undergraduate Awards:</b>
-<p style="margin-left: 40px">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
+<b>Undergraduate Awards:</b> <p style="margin-left: 40px">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
 <br>New England Scholar, University of Connecticut
 <br>2019 Global Citizen Scholarship (\$450)
 <br>2019 McMahon Family Endowment for Global Education (\$750)
