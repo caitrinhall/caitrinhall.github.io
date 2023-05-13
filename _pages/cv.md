@@ -149,9 +149,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Skills
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * R
+  * MATLAB
+  * Python
+* Data analysis: Nonlinear methods
+  * Recurrence quantification analysis
+  * Multidimensional recurrence quantification analysis
+* Web development
+  * GitHub Pages
