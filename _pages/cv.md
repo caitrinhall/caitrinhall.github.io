@@ -102,23 +102,51 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br><i>Spring 2023</i></p> 
 
 <p style="margin-left: 40px">
-<b>PSYC 1100 Teaching Assistant</b>
+<b>PSYC 1100 Honors Teaching Assistant</b>
 <br>General Psychology I Lab (Honors)
+<br>IORs: Dr. Alexandra Paxton, Dr. Umay Suanda, Dr. James Dixon
 <br>University of Connecticut, Storrs
-<br>IORs: Alexandra Paxton, Umay Suanda
 <br><i>Fall 2022, Spring 2023</i></p> 
 
 <p style="margin-left: 40px">
 <b>PSYC 1100 Teaching Assistant</b>
 <br>General Psychology I Lab
+<br>IORs: Dr. Alexandra Paxton, Dr. Eric Lunquist
 <br>University of Connecticut, Storrs
-<br>IORs: Alexandra Paxton, Eric Lunquist
 <br><i>Spring 2020, Fall 2020, Spring 2021</i></p> 
   
-## Service and leadership
+## Other Employment
 
-* Currently signed in to 43 different slack teams
+<p style="margin-left: 40px">
+<b>Yoga Instructor</b>
+<br>Student Recreation Center
+<br>University of Connecticut, Storrs
+<br><i>November 2021-March 2023</i></p>
+
+<p style="margin-left: 40px">
+<b>Administrative Assistant</b>
+<br>Department of Psychological Sciences
+<br>University of Connecticut, Storrs
+<br><i>August 2019-May 2021</i></p>
+
+<p style="margin-left: 40px">
+<b>Student Supervisor</b>
+<br>Department of Dining Services
+<br>University of Connecticut, Storrs
+<br><i>August 2017-December 2019</i></p>
   
+## Certifications
+
+<p style="margin-left: 40px">
+<b>Heartsaver CPR/AED</b>
+<br>American Heart Association
+<br><i>February 2022</i></p>
+
+<p style="margin-left: 40px">
+<b>200-Hour Yoga Teacher Training</b>
+<br>Revolution Community Yoga, Acton, MA
+<br><i>May 2018</i></p>
+
 ## Skills
 
 * Skill 1
