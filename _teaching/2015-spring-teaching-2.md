@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "PSYC 2501: Cognitive Psychology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course, Instructor of Record"
+permalink: /teaching/2023-summer-psyc2501-ior
+venue: "University of Connecticut"
+date: 2023-07-10
+location: "distance learning"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course catalog description: Different views of mental representation and processes involved in memory, language comprehension, perception, attention, and problem solving. Historical development of models in cognitive psychology.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+*Note: The curriculum I develoepd presented each topic listed above from 3 different psychological frameworks: (1) classical cognitivism, (2) connectionism, and (3) embodied cognition.*
