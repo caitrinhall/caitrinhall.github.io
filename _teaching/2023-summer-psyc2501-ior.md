@@ -8,6 +8,6 @@ date: 2023-07-10
 location: "distance learning"
 ---
 
-Course catalog description: Different views of mental representation and processes involved in memory, language comprehension, perception, attention, and problem solving. Historical development of models in cognitive psychology.
+Course description: Different views of mental representation and processes involved in memory, language comprehension, perception, attention, and problem solving. Historical development of models in cognitive psychology.
 
 *Note: The curriculum I develoepd presented each topic listed above from 3 different psychological frameworks: (1) classical cognitivism, (2) connectionism, and (3) embodied cognition.*
