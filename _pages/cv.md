@@ -15,7 +15,13 @@ redirect_from:
 <b>Ph.D in Psychological Sciences</b>
 <br>Concentration: Ecological Psychology
 <br>University of Connecticut
-<br><i>May 2025 (anticipated)</i></p>  
+<br><i>August 2024 (anticipated)</i></p>  
+
+<p style="margin-left: 40px">
+<b>Graduate Certificate in College Instruction</b>
+<br>Neag School of Education
+<br>University of Connecticut
+<br><i>December 2023</i></p> 
 
 <p style="margin-left: 40px">
 <b>B.S. in Cognitive Science</b>
@@ -51,10 +57,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>University of Connecticut</p>
 
 <b>Travel Awards:</b>
-<p style="margin-left: 40px">2023 Psychological Sciences Department Travel Award (\$500)
-<br>2023 Science of Language and Art of Communication Travel Award (\$2,000)
-<br>2022 Psychological Sciences Department Travel Award (\$500)
-<br>2022 Science of Language and Art of Communication Travel Award (\$1,000)</p>
+<p style="margin-left: 40px">UConn 2024 Graduate School Conference Participation Award (\$750)
+<br>2023 UConn Psychological Sciences Department Travel Award (\$500)
+<br>2023 UConn Science of Language and Art of Communication Travel Award (\$2,000)
+<br>2022 UConn Psychological Sciences Department Travel Award (\$500)
+<br>2022 UConn Science of Language and Art of Communication Travel Award (\$1,000)</p>
 
 <b>Undergraduate Awards:</b>
 <p style="margin-left: 40px">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
@@ -67,6 +74,51 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>2016 Smyrski Farm Scholarship (\$1,200)
 <br>2015-19 Presidential Scholars Award for Valedictorians (\$15,000/year)</p>
 
+## Teaching Experience
+
+<p style="margin-left: 40px">
+<b>PSYC 2501 Instructor of Record</b>
+<br>Cognitive Psychology
+<br>University of Connecticut, Hartford
+<br><i>Spring 2024</i></p>
+
+<p style="margin-left: 40px">
+<b>UNIV 1800 Instructor of Record</b>
+<br>First Year Experience University Learning Skills
+<br>University of Connecticut, Storrs
+<br><i>Fall 2023</i></p>
+
+<p style="margin-left: 40px">
+<b>PSYC 2501 Instructor of Record</b>
+<br>Cognitive Psychology
+<br>University of Connecticut, Storrs (remote)
+<br><i>Summer 2023</i></p>
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Instructor of Record</b>
+<br>General Psychology I Lecture
+<br>University of Connecticut, Hartford
+<br><i>Spring 2023</i></p> 
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Course Assistant</b>
+<br>General Psychology I Lecture
+<br>University of Connecticut, Storrs
+<br><i>Spring 2024</i></p> 
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Honors Teaching Assistant</b>
+<br>General Psychology I Lab (Honors)
+<br>University of Connecticut, Storrs
+<br><i>Fall 2022, Spring 2023, Fall 2023</i></p> 
+
+<p style="margin-left: 40px">
+<b>PSYC 1100 Teaching Assistant</b>
+<br>General Psychology I Lab
+<br>University of Connecticut, Storrs
+<br><i>Spring 2020, Fall 2020, Spring 2021</i>
+<br><i>Fall 2022, Spring 2024</i></p> 
+  
 ## Research Experience
 
 <p style="margin-left: 40px">
@@ -74,7 +126,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>dyscord lab
 <br>Department of Psychological Sciences
 <br>University of Connecticut, Storrs
-<br>Advisor: Alexandra Paxton
+<br>Principle Investigator & Advisor: Alexandra Paxton
 <br><i>January 2020-Present</i></p> 
 
 <p style="margin-left: 40px">
@@ -93,28 +145,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>Principle Investigator: Edward Large
 <br><i>June 2018-December 2019</i></p> 
 
-## Teaching Experience
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Instructor of Record</b>
-<br>General Psychology I Lecture
-<br>University of Connecticut, Hartford
-<br><i>Spring 2023</i></p> 
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Honors Teaching Assistant</b>
-<br>General Psychology I Lab (Honors)
-<br>IORs: Dr. Alexandra Paxton, Dr. Umay Suanda, Dr. James Dixon
-<br>University of Connecticut, Storrs
-<br><i>Fall 2022, Spring 2023</i></p> 
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Teaching Assistant</b>
-<br>General Psychology I Lab
-<br>IORs: Dr. Alexandra Paxton, Dr. Eric Lunquist
-<br>University of Connecticut, Storrs
-<br><i>Spring 2020, Fall 2020, Spring 2021</i></p> 
-  
 ## Other Employment
 
 <p style="margin-left: 40px">
