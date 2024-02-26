@@ -1,10 +1,10 @@
 ---
 title: "UNIV 1800: First Year Experience Learning University Skills"
 collection: teaching
-type: "Undergraduate course, Instructor of Record"
-permalink: /teaching/2023-summer-psyc2501-ior
-venue: "University of Connecticut"
-date: 2023-08-28
+type: "Undergraduate course at the University of Connecticut"
+permalink: /teaching/UConn-UNIV-1800
+role: "Instructor of Record"
+semester: Fall 2023
 location: "Storrs, CT"
 ---
 
