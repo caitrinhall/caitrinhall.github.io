@@ -8,6 +8,6 @@ semester: "Summer 2023, Spring 2024"
 location: "distance learning"
 ---
 
-Course description: <p>Different views of mental representation and processes involved in memory, language comprehension, perception, attention, and problem solving. Historical development of models in cognitive psychology.
+<p>Course description: Different views of mental representation and processes involved in memory, language comprehension, perception, attention, and problem solving. Historical development of models in cognitive psychology.
 
 <br>*Note: The curriculum I develoepd presented each topic listed above from 3 different psychological frameworks: (1) classical cognitivism, (2) connectionism, and (3) embodied cognition.*</p>
