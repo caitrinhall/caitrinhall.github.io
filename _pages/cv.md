@@ -115,16 +115,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Funding & Awards
 
 <b>Fellowships:</b>
-<p style="margin-left: 40px"><b>Science of Learning and Art of Communication</b>
-<br>2023 Summer Fellowship (\$2,833)
+<p style="margin-left: 40px"><b>2024 Summer Doctoral Dissertation Fellowship (\$2,000)</b>
+<br> The Graduate School
+<br>University of Connecticut</p>
+
+<p style="margin-left: 40px"><b>2023 Summer Fellowship (\$2,833)</b>
+<br>Science of Learning and Art of Communication
 <br>Funded by the National Science Foundation through UConn</p>
 
-<p style="margin-left: 40px"><b>Science of Learning and Art of Communication</b>
-<br>2021-22 Graduate Fellowship (\$34,000)
+<p style="margin-left: 40px"><b>2021-22 Graduate Fellowship (\$34,000)</b>
+<br>Science of Learning and Art of Communication
 <br>Funded by the National Science Foundation through UConn</p>
 
-<p style="margin-left: 40px"><b>The Connecticut Institute for the Brain and Cognitive Sciences</b>
-<br>2021 Graduate Fellowship (\$5,000)
+<p style="margin-left: 40px"><b>2021 Graduate Fellowship (\$5,000)</b>
+<br>The Connecticut Institute for the Brain and Cognitive Sciences
 <br>University of Connecticut</p>
 
 <b>Travel Awards:</b>
