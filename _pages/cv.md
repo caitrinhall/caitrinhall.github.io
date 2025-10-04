@@ -70,9 +70,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
       <b>PSY 208 Health Psychology</b><br>
     </div>
   </div>
-
-</div>
-
+  
   <p><b>Instructor of Record Positions</b><br>
   University of Connecticut, Storrs & Hartford</p>
 
@@ -92,7 +90,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 600px;">
+  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">Summer 2023</div>
     <div>
       <b>PSYC 2501 Cognitive Psychology</b><br>
@@ -109,30 +107,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
 
 </div>
-
-<p style="margin-left: 40px">
-<b>PSYC 2501 Instructor of Record</b>
-<br>Cognitive Psychology
-<br>University of Connecticut, Hartford
-<br><i>Spring 2024</i></p>
-
-<p style="margin-left: 40px">
-<b>UNIV 1800 Instructor of Record</b>
-<br>First Year Experience University Learning Skills
-<br>University of Connecticut, Storrs
-<br><i>Fall 2023</i></p>
-
-<p style="margin-left: 40px">
-<b>PSYC 2501 Instructor of Record</b>
-<br>Cognitive Psychology
-<br>University of Connecticut, Storrs (remote)
-<br><i>Summer 2023</i></p>
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Instructor of Record</b>
-<br>General Psychology I Lecture
-<br>University of Connecticut, Hartford
-<br><i>Spring 2023</i></p> 
 
 <p style="margin-left: 40px">
 <b>PSYC 1100 Course Assistant</b>
