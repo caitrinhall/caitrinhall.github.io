@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-------
 I'm currently a Visiting Assistant Professor in the [Psychology Department](https://www.conncoll.edu/academics/majors-departments-programs/departments/psychology/) at Connecticut College. In 2025, I earned my PhD in the [Department of Psychological Sciences](https://psychology.uconn.edu/) at the University of Connecticut. My PhD concentration is [Ecological Psychology](https://psychology.uconn.edu/phd/ecological-psychology/)—the study of biological perception, action, and cognition from the fundamental assumption of organism-environment mutuality. Throughout my graduate career, I was a research assistant in the [dyscord lab](https://dyscord-lab.github.io/), advised by [Dr. Alexandra Paxton](https://alexandrapaxton.com/). Additionally, I my research program was housed within the [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/) and the [Social-Ecological & Environmental Lab](https://seelab.socialpsych.uconn.edu/).  
 
 **Research Interests**  
