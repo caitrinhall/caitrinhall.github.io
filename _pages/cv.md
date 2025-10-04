@@ -98,15 +98,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-    <div style="display: flex; max-width: 600px;">
-    <div style="width: 120px;">Summer 2023</div>
+    <div style="margin-left: 40px; display: flex; max-width: 600px;">
+    <div style="width: 120px;">Spring 2023</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       University of Connecticut, Hartford
     </div>
   </div>
 
-  <p><b>Teaching Assistantshipss</b><br>
+  <p><b>Teaching Assistantships</b><br>
   University of Connecticut, Storrs</p>
   
   <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
@@ -165,7 +165,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-    <div style="display: flex; max-width: 600px;">
+    <div style="margin-left: 40px; display: flex; max-width: 600px;">
     <div style="width: 120px;">Spring 2020</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
