@@ -42,12 +42,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% endfor %}
 
 ## Teaching Experience
-<div style="margin-left: 40px; font-family: Arial, sans-serif;">
+<div style="font-family: Arial, sans-serif;">
 
   <p><b>Visiting Assistant Professor</b><br>
   Connecticut College, New London</p>
 
-  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">Fall 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
@@ -74,7 +74,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <p><b>Instructor of Record Positions</b><br>
   University of Connecticut, Storrs & Hartford</p>
 
-  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">Spring 2024</div>
     <div>
       <b>PSYC 2501 Cognitive Psychology</b><br>
