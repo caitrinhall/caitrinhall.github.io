@@ -51,9 +51,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     <div style="width: 120px;">Fall 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
-      Section: 1<br>
       <b>PSY 208 Health Psychology</b><br>
-      Section: 1
     </div>
   </div>
 
@@ -61,9 +59,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     <div style="width: 120px;">Spring 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
-      Sections: 1, 2<br>
       <b>PSY 208 Health Psychology</b><br>
-      Section: 1
     </div>
   </div>
 
@@ -71,9 +67,44 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     <div style="width: 120px;">Fall 2024</div>
     <div>
       <b>PSY 207 Cognitive Psychology</b><br>
-      Section: 1<br>
       <b>PSY 208 Health Psychology</b><br>
-      Section: 1
+    </div>
+  </div>
+
+</div>
+
+  <p><b>Instructor of Record Positions</b><br>
+  University of Connecticut, Storrs & Hartford</p>
+
+  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Spring 2024</div>
+    <div>
+      <b>PSYC 2501 Cognitive Psychology</b><br>
+      University of Connecticut, Hartford
+    </div>
+  </div>
+
+  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Fall 2023</div>
+    <div>
+      <b>UNIV 1800 First-Year Experience University Learning Skills</b><br>
+      University of Connecticut, Storrs
+    </div>
+  </div>
+
+  <div style="display: flex; max-width: 600px;">
+    <div style="width: 120px;">Summer 2023</div>
+    <div>
+      <b>PSYC 2501 Cognitive Psychology</b><br>
+      University of Connecticut, Distance Learning
+    </div>
+  </div>
+
+    <div style="display: flex; max-width: 600px;">
+    <div style="width: 120px;">Summer 2023</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      University of Connecticut, Hartford
     </div>
   </div>
 
