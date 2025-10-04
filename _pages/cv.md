@@ -42,8 +42,44 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% endfor %}
 
 ## Teaching Experience
+<div style="margin-left: 100px; font-family: Arial, sans-serif;">
 
-<p style="margin-left: 100px">
+  <p><b>Visiting Assistant Professor</b><br>
+  Connecticut College, New London</p>
+
+  <div style="display: flex; justify-content: space-between; max-width: 600px; margin-bottom: 10px;">
+    <div>Fall 2025</div>
+    <div>
+      <b>PSY 202 Research Methods in Psychology</b><br>
+      Section: 1<br>
+      <b>PSY 208 Health Psychology</b><br>
+      Section: 1
+    </div>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; max-width: 600px; margin-bottom: 10px;">
+    <div>Spring 2025</div>
+    <div>
+      <b>PSY 202 Research Methods in Psychology</b><br>
+      Sections: 1, 2<br>
+      <b>PSY 208 Health Psychology</b><br>
+      Section: 1
+    </div>
+  </div>
+
+  <div style="display: flex; justify-content: space-between; max-width: 600px;">
+    <div>Fall 2024</div>
+    <div>
+      <b>PSY 207 Cognitive Psychology</b><br>
+      Section: 1<br>
+      <b>PSY 208 Health Psychology</b><br>
+      Section: 1
+    </div>
+  </div>
+
+</div>
+
+<p style="margin-left: 40px">
 <b>PSYC 2501 Instructor of Record</b>
 <br>Cognitive Psychology
 <br>University of Connecticut, Hartford
