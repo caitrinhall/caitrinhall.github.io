@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Caitrín Hall"
 title_separator          : "-"
-name                     : "Caitrín Hall"
-description              : &description "Psychological Sciences PhD Candidate at the University of Conencticut"
+name                     : "Caitrín Hall, PhD"
+description              : &description "Visiting Assistant Professor of Psychology at Connecticut College"
 url                      : https://caitrinhall.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caitrinhall/caitrinhall.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Caitrín Hall"
+  name             : "Caitrín Hall, PhD"
   avatar           : "profile pic 2022.png"
-  bio              : "PhD candidate in the Center for the Ecological Study of Perception and Action at the University of Connecticut"
-  location         : "UConn"
+  bio              : "Visiting Assistant Professor of Psychology at Connecticut College"
+  location         : "Connecticut College"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=YliGD2YAAAAJ"
-  email            : "caitrin.hall@uconn.edu"
+  email            : "chall1342@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
