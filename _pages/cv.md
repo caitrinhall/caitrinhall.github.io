@@ -47,8 +47,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <p><b>Visiting Assistant Professor</b><br>
   Connecticut College, New London</p>
 
-  <div style="display: flex; justify-content: space-between; max-width: 600px; margin-bottom: 10px;">
-    <div>Fall 2025</div>
+  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Fall 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       Section: 1<br>
@@ -57,8 +57,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; justify-content: space-between; max-width: 600px; margin-bottom: 10px;">
-    <div>Spring 2025</div>
+  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+    <divstyle="width: 120px;">Spring 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       Sections: 1, 2<br>
@@ -67,8 +67,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; justify-content: space-between; max-width: 600px;">
-    <div>Fall 2024</div>
+  <div style="display: flex; max-width: 600px;">
+    <divstyle="width: 120px;">Fall 2024</div>
     <div>
       <b>PSY 207 Cognitive Psychology</b><br>
       Section: 1<br>
