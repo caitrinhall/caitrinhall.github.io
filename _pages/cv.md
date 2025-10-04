@@ -15,7 +15,7 @@ redirect_from:
 <b>Ph.D. in Psychological Sciences</b>
 <br>Concentration: Ecological Psychology
 <br>University of Connecticut
-<br><i>August 2024 (anticipated)</i></p>  
+<br><i>July 2025</i></p>  
 
 <p style="margin-left: 40px">
 <b>Graduate Certificate in College Instruction</b>
@@ -43,7 +43,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Teaching Experience
 
-<p style="margin-left: 40px">
+<p style="margin-left: 100px">
 <b>PSYC 2501 Instructor of Record</b>
 <br>Cognitive Psychology
 <br>University of Connecticut, Hartford
@@ -94,7 +94,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>Department of Psychological Sciences
 <br>University of Connecticut, Storrs
 <br>Principle Investigator & Advisor: Alexandra Paxton
-<br><i>January 2020-Present</i></p> 
+<br><i>January 2020-July 2025</i></p> 
 
 <p style="margin-left: 40px">
 <b>Graduate Research Assistant</b>
@@ -102,7 +102,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>Department of Anthropology
 <br>University of Connecticut, Storrs
 <br>Principle Investigator: Dimitris Xygalatas
-<br><i>January 2020-Present</i></p> 
+<br><i>January 2020-July 2025</i></p> 
 
 <p style="margin-left: 40px">
 <b>Undergraduate Research Assistant</b>
