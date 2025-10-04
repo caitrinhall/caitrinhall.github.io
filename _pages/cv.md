@@ -242,33 +242,31 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Service & Community Outreach
 
   <div style="margin-left: 40px; display: flex; max-width: 1000px; margin-bottom: 10px;">
-    <div style="width: 250px;">May — Aug 2024</div>
+    <div style="width: 220px;">May—Aug 2024</div>
     <div>
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 1000px; margin-bottom: 10px;">
-    <div style="width: 250px;">Jan 2021 — Dec 2023</div>
+    <div style="width: 220px;">Jan 2021—Dec 2023</div>
     <div>
       Lab Coordinator, Social-Ecological and Environmental
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 1000px; margin-bottom: 10px;">
-    <div style="width: 250px;">Jan 2022</div>
+    <div style="width: 220px;">Jan 2022</div>
     <div>
       Panelist, CT Science Center STEM Career Showcase
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 1000px; margin-bottom: 10px;">
-    <div style="width: 250px;">Jan — Dec 2021</div>
+    <div style="width: 220px;">Jan—Dec 2021</div>
     <div>
       Deputy Student Representative, Connecticut Psychological Association
     </div>
-  </div>
-
   </div>
 
 ## Other Employment
