@@ -82,7 +82,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+  <div style="margin-left: 40px; display: flex; max-width: 1000px; margin-bottom: 10px;">
     <div style="width: 120px;">Fall 2023</div>
     <div>
       <b>UNIV 1800 First-Year Experience University Learning Skills</b><br>
