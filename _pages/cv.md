@@ -241,8 +241,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Service & Community Outreach
 
-  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
-    <div style="width: 120px;">May-August 2024</div>
+  <div style="margin-left: 40px; display: flex; max-width: 1000px; margin-bottom: 10px;">
+    <div style="width: 200px;">May-August 2024</div>
     <div>
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
@@ -258,7 +258,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">January 2022</div>
     <div>
-      <b>Panelist, CT Science Center STEM Career Showcase</b>
+      Panelist, CT Science Center STEM Career Showcase
     </div>
   </div>
 
