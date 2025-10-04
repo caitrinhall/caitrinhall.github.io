@@ -221,7 +221,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>University of Connecticut</p>
 
 <b>Travel Awards:</b>
-<p style="margin-left: 40px">UConn 2024 Graduate School Conference Participation Award (\$750)
+<p style="margin-left: 40px">2024 International Society for Ecological Psychology William Mace Travel Fund (\$400)
+<br>2024 UConn Graduate School Conference Participation Award (\$750)
 <br>2023 UConn Psychological Sciences Department Travel Award (\$500)
 <br>2023 UConn Science of Language and Art of Communication Travel Award (\$2,000)
 <br>2022 UConn Psychological Sciences Department Travel Award (\$500)
@@ -237,6 +238,36 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>2016 Bobb-Koths Plant Science Scholarship (\$1,200)
 <br>2016 Smyrski Farm Scholarship (\$1,200)
 <br>2015-19 Presidential Scholars Award for Valedictorians (\$15,000/year)</p>
+
+## Service & Community Outreach
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">May-August 2024</div>
+    <div>
+      Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
+    </div>
+  </div>
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">January 2021-December 2023</div>
+    <div>
+      Lab Coordinator, Social-Ecological and Environmental
+    </div>
+  </div>
+  
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">January 2022</div>
+    <div>
+      <b>Panelist, CT Science Center STEM Career Showcase</b>
+    </div>
+  </div>
+
+    <div style="margin-left: 40px; display: flex; max-width: 600px;">
+    <div style="width: 120px;">January-December 2021</div>
+    <div>
+      Deputy Student Representative, Connecticut Psychological Association
+    </div>
+  </div>
 
 ## Other Employment
 
