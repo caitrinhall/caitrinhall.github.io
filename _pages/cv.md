@@ -249,21 +249,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
-    <div style="width: 120px;">January 2021-December 2023</div>
+    <div style="width: 200px;">January 2021-December 2023</div>
     <div>
       Lab Coordinator, Social-Ecological and Environmental
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
-    <div style="width: 120px;">January 2022</div>
+    <div style="width: 200px;">January 2022</div>
     <div>
       Panelist, CT Science Center STEM Career Showcase
     </div>
-  </div>
 
     <div style="margin-left: 40px; display: flex; max-width: 600px;">
-    <div style="width: 120px;">January-December 2021</div>
+    <div style="width: 200px;">January-December 2021</div>
     <div>
       Deputy Student Representative, Connecticut Psychological Association
     </div>
