@@ -55,7 +55,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">Spring 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
@@ -63,7 +63,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 600px;">
+  <div style="margin-left: 40px; display: flex; max-width: 600px;">
     <div style="width: 120px;">Fall 2024</div>
     <div>
       <b>PSY 207 Cognitive Psychology</b><br>
@@ -82,7 +82,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">Fall 2023</div>
     <div>
       <b>UNIV 1800 First-Year Experience University Learning Skills</b><br>
@@ -90,7 +90,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 600px; margin-bottom: 10px;">
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
     <div style="width: 120px;">Summer 2023</div>
     <div>
       <b>PSYC 2501 Cognitive Psychology</b><br>
@@ -106,26 +106,74 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
+  <p><b>Teaching Assistantshipss</b><br>
+  University of Connecticut, Storrs</p>
+  
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Fall 2024</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Section: 047 (Honors)
+    </div>
+  </div>
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Spring 2024</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Sections: 060, 008
+    </div>
+  </div>
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Fall 2023</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Sections: 035, 037, 047 (Honors)
+    </div>
+  </div>
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Spring 2023</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Section: 012 (Honors)
+    </div>
+  </div>
+  
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Fall 2022</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Sections: 007 (Honors), 047 (Honors)
+    </div>
+  </div>
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Spring 2021</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Section: 028
+    </div>
+  </div>
+
+  <div style="margin-left: 40px; display: flex; max-width: 600px; margin-bottom: 10px;">
+    <div style="width: 120px;">Fall 2020</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Section: 003
+    </div>
+  </div>
+
+    <div style="display: flex; max-width: 600px;">
+    <div style="width: 120px;">Spring 2020</div>
+    <div>
+      <b>PSYC 1100 General Psychology I</b><br>
+      Section: 022
+    </div>
+  </div>
+
 </div>
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Course Assistant</b>
-<br>General Psychology I Lecture
-<br>University of Connecticut, Storrs
-<br><i>Spring 2024</i></p> 
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Honors Teaching Assistant</b>
-<br>General Psychology I Lab (Honors)
-<br>University of Connecticut, Storrs
-<br><i>Fall 2022, Spring 2023, Fall 2023</i></p> 
-
-<p style="margin-left: 40px">
-<b>PSYC 1100 Teaching Assistant</b>
-<br>General Psychology I Lab
-<br>University of Connecticut, Storrs
-<br><i>Spring 2020, Fall 2020, Spring 2021</i>
-<br><i>Fall 2022, Spring 2024</i></p> 
   
 ## Research Experience
 
