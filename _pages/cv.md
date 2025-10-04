@@ -42,7 +42,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   {% endfor %}
 
 ## Teaching Experience
-<div style="margin-left: 100px; font-family: Arial, sans-serif;">
+<div style="margin-left: 40px; font-family: Arial, sans-serif;">
 
   <p><b>Visiting Assistant Professor</b><br>
   Connecticut College, New London</p>
