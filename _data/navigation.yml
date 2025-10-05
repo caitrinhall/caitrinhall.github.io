@@ -12,6 +12,9 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+    
+  - title: "Testimonials"
+    url: /testimonials/ 
     
 
