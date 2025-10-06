@@ -1,10 +1,8 @@
 ---
+layout: archive
+title: "Student Evaluations of Professor Hall's Teaching"
 permalink: /testimonials/
 author_profile: true
-title: "Student Evaluations of Professor Hall's Teaching"
-redirect_from: 
-  - /testimonials/
-  - /testimonials.md
 ---
 {% include base_path %}
 
