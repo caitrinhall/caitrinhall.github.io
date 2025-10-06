@@ -3,6 +3,8 @@ layout: archive
 title: "Student Evaluations of Professor Hall's Teaching"
 permalink: /testimonials/
 author_profile: true
+redirect_from: 
+  - /testimonials.md
 ---
 {% include base_path %}
 
