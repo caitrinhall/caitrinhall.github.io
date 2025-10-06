@@ -1,11 +1,12 @@
 ---
-permalink: /
+permalink: /testimonials/
 author_profile: true
 title: "Student Evaluations of Professor Hall's Teaching"
 redirect_from: 
   - /testimonials/
   - /testimonials.md
 ---
+{% include base_path %}
 
 <br>
 "I have really enjoyed this course. While the content is definitely interesting, what has had the most impact on me is the way the material is taught and discussed and the way the classroom environment is such a <b>safe space</b>. I especially appreciate the <b>openness</b> about ADHD, which makes me feel as though I don’t have to be ashamed or embarrassed about myself. Honestly, I would take any other course with Professor Hall, even if on paper it is not a subject I am typically interested in because I know she would make it <b>interesting</b> and <b>engaging</b>!"
