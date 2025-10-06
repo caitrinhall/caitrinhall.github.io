@@ -9,6 +9,16 @@ redirect_from:
 {% include base_path %}
 
 <br>
+"Professor Hall is by far one of the kindest and most genuine professors I have ever had. She is incredibly intelligent and her knowledge on the topics we learn about is evident, yet she is incredibly patient with us when we dont’t understand and teaches the material to us in a way that we are easily able to understand. I have learned so much from her in this class and it has allowed to to look at my interests from a different perspective that is incredibly important and impactful."
+<div style="text-align: right;">— Connecticut College student from Health Psychology, Fall 2024</div>
+<br>
+<br>
+
+"What by far had the most impact was the way that Professor Hall ran the class and the way that she made it feel like such a <b>safe space</b> to ask questions. She makes me feel <b>empowered</b> to be able to succeed regardless of what may make it more difficult and has created such a safe and comfortable environment that I know that if I struggle with anything I can go to her and she will help me succeed...I genuinely feel so <b>connected</b> to her and I hope to take as many classes with her as I can. It is incredibly clear from this semester that being a professor is what she is meant to do (provided that is what she wants to do!). Professor Hall has made such an <b>impact</b> on so many students, especially someone like me, and not having her here would be a profound loss."
+<div style="text-align: right;">— Connecticut College student from Health Psychology, Fall 2024</div>
+<br>
+<br>
+
 "I have really enjoyed this course. While the content is definitely interesting, what has had the most impact on me is the way the material is taught and discussed and the way the classroom environment is such a <b>safe space</b>. I especially appreciate the <b>openness</b> about ADHD, which makes me feel as though I don’t have to be ashamed or embarrassed about myself. Honestly, I would take any other course with Professor Hall, even if on paper it is not a subject I am typically interested in because I know she would make it <b>interesting</b> and <b>engaging</b>!"
 <div style="text-align: right;">— Connecticut College student from Health Psychology, Fall 2024</div>
 <br>
