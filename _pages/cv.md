@@ -190,7 +190,7 @@ redirect_from:
 <br><i>June 2018-December 2019</i></p> 
 
 ## Peer-Reviewed Journal Publications
-You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&pli=1&user=t5wDBFIAAAAJ" style="color:#0C16A7">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&pli=1&user=t5wDBFIAAAAJ" target="_blank" style="color:#0C16A7">my Google Scholar profile</a>.</u>
 <br/>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
