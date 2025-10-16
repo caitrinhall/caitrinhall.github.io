@@ -36,7 +36,7 @@ redirect_from:
   Connecticut College, New London</p>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">Fall 2025</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
@@ -63,7 +63,7 @@ redirect_from:
   University of Connecticut, Storrs & Hartford</p>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">Spring 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2024</div>
     <div>
       <b>PSYC 2501 Cognitive Psychology</b><br>
       University of Connecticut, Hartford
@@ -98,7 +98,7 @@ redirect_from:
   University of Connecticut, Storrs</p>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">Fall 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2024</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Section: 047 (Honors)
@@ -247,7 +247,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">
-      May—Aug 2024
+      May — Aug 2024
     </div>
     <div style="flex: 1 1 0; min-width: 0;">
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
@@ -256,7 +256,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Jan 2021—Dec 2023
+      Jan 2021 — Dec 2023
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Lab Coordinator, Social-Ecological and Environmental
@@ -274,7 +274,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Jan—Dec 2021
+      Jan — Dec 2021
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Deputy Student Representative, Connecticut Psychological Association
