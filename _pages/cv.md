@@ -39,7 +39,7 @@ redirect_from:
     <div style="width: 120px; flex-shrink: 0; margin-right: 20px; word-break:break-word;">
       Fall 2025
     </div>
-    <div style="flex:1 1 auto; min-width:150px;">
+    <div style="flex:1 1 auto; min-width:200px;">
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
     </div>
