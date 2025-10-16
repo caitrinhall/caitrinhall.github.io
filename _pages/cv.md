@@ -35,27 +35,27 @@ redirect_from:
   <p><b>Visiting Assistant Professor</b><br>
   Connecticut College, New London</p>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="width: 80px; flex-shrink: 0; margin-right: 20px; word-break:break-word;">
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
       Fall 2025
     </div>
-    <div style="flex:1 1 auto; min-width:200px;">
+    <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="width: 80px; flex-shrink: 0; margin-right: 20px; word-break:break-word;">Spring 2025</div>
-    <div style="flex:1 1 auto; min-width:200px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2025</div>
+    <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="width: 80px; flex-shrink: 0; margin-right: 20px; word-break:break-word;">Fall 2024</div>
-    <div style="flex:1 1 auto; min-width:200px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2024</div>
+    <div>
       <b>PSY 207 Cognitive Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
     </div>
