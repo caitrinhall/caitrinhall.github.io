@@ -37,7 +37,7 @@ redirect_from:
 
   <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
     <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
-      Fall 2025
+      <i>Fall 2025</i>
     </div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
@@ -46,7 +46,9 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2025</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Spring 2025</i>
+      </div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
@@ -54,7 +56,9 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Fall 2024</i>
+    </div>
     <div>
       <b>PSY 207 Cognitive Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
