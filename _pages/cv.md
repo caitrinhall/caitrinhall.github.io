@@ -245,8 +245,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Service & Community Outreach
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="width: 150px; padding-right: 20px; box-sizing:border-box;">
+  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       May - Aug 2024
     </div>
     <div style="flex: 1; min-width: 150px;">
@@ -254,17 +254,17 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="width: 150px; padding-right: 20px; box-sizing:border-box;">
+  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Jan 2021 - Dec 2023
     </div>
     <div style="flex: 1; min-width: 150px;">
-      Lab Coordinator, Social-Ecological and Environmental
+      Lab Coordinator, Social-Ecological and Environmental Lab
     </div>
   </div>
   
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="width: 150px; padding-right: 20px; box-sizing:border-box;">
+  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Jan 2022
     </div>
     <div style="flex: 1; min-width: 150px;">
@@ -272,8 +272,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="width: 150px; padding-right: 20px; box-sizing:border-box;">
+  <div style="display: flex; max-width: 100%;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Jan - Dec 2021
     </div>
     <div style="flex: 1; min-width: 150px;">
