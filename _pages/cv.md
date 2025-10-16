@@ -231,15 +231,17 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </ul>
 
 <b>Undergraduate Awards:</b>
-<p style="margin-left: 40px;">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
-<br>2019 New England Scholar, University of Connecticut
-<br>2019 Global Citizen Scholarship (\$450)
-<br>2019 McMahon Family Endowment for Global Education (\$750)
-<br>2018 New England Scholar, University of Connecticut
-<br>2018 Sophomore Honors Award, University of Connecticut
-<br>2016 Bobb-Koths Plant Science Scholarship (\$1,200)
-<br>2016 Smyrski Farm Scholarship (\$1,200)
-<br>2015-19 Presidential Scholars Award for Valedictorians (\$15,000/year)</p>
+<ul style="margin-left: 40px;">
+  <li>2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)</li>
+  <li>2019 New England Scholar, University of Connecticut</li>
+  <li>2019 Global Citizen Scholarship (\$450)</li>
+  <li>2019 McMahon Family Endowment for Global Education (\$750)</li>
+  <li>2018 New England Scholar, University of Connecticut</li>
+  <li>2018 Sophomore Honors Award, University of Connecticut</li>
+  <li>2016 Bobb-Koths Plant Science Scholarship (\$1,200)</li>
+  <li>2016 Smyrski Farm Scholarship (\$1,200)</li>
+  <li>2015-19 Presidential Scholars Award for Valedictorians (\$15,000/year)</li>
+</ul>
 
 ## Service & Community Outreach
 
