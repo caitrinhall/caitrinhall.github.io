@@ -51,8 +51,8 @@ redirect_from:
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 600px;">
-    <div style="width: 180px;">Fall 2024</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap; wrap; max-width: 100%;">
+    <div style="min-width: 120px; flex-shrink: 0;">Fall 2024</div>
     <div>
       <b>PSY 207 Cognitive Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
