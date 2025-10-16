@@ -221,12 +221,14 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>University of Connecticut</p>
 
 <b>Travel Awards:</b>
-<p style="margin-left: 40px;">2024 International Society for Ecological Psychology William Mace Travel Fund (\$400)
-<br>2024 UConn Graduate School Conference Participation Award (\$750)
-<br>2023 UConn Psychological Sciences Department Travel Award (\$500)
-<br>2023 UConn Science of Language and Art of Communication Travel Award (\$2,000)
-<br>2022 UConn Psychological Sciences Department Travel Award (\$500)
-<br>2022 UConn Science of Language and Art of Communication Travel Award (\$1,000)</p>
+<ul style="margin-left:40px; padding-left:0; list-style-type:none;">
+  <li>2024 International Society for Ecological Psychology William Mace Travel Fund ($400)</li>
+  <li>2024 UConn Graduate School Conference Participation Award ($750)</li>
+  <li>2023 UConn Psychological Sciences Department Travel Award ($500)</li>
+  <li>2023 UConn Science of Language and Art of Communication Travel Award ($2,000)</li>
+  <li>2022 UConn Psychological Sciences Department Travel Award ($500)</li>
+  <li>2022 UConn Science of Language and Art of Communication Travel Award ($1,000)</li>
+</ul>
 
 <b>Undergraduate Awards:</b>
 <p style="margin-left: 40px;">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
