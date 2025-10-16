@@ -221,7 +221,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>University of Connecticut</p>
 
 <b>Travel Awards:</b>
-<p style="margin-left: 40px">2024 International Society for Ecological Psychology William Mace Travel Fund (\$400)
+<p style="margin-left: 40px; margin-bottom: 5px;">2024 International Society for Ecological Psychology William Mace Travel Fund (\$400)
 <br>2024 UConn Graduate School Conference Participation Award (\$750)
 <br>2023 UConn Psychological Sciences Department Travel Award (\$500)
 <br>2023 UConn Science of Language and Art of Communication Travel Award (\$2,000)
@@ -229,7 +229,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>2022 UConn Science of Language and Art of Communication Travel Award (\$1,000)</p>
 
 <b>Undergraduate Awards:</b>
-<p style="margin-left: 40px">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
+<p style="margin-left: 40px; margin-bottom: 5px;">2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)
 <br>2019 New England Scholar, University of Connecticut
 <br>2019 Global Citizen Scholarship (\$450)
 <br>2019 McMahon Family Endowment for Global Education (\$750)
@@ -243,28 +243,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">May—Aug 2024</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Jan 2021—Dec 2023</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Lab Coordinator, Social-Ecological and Environmental
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Jan 2022</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Panelist, CT Science Center STEM Career Showcase
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Jan—Dec 2021</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Deputy Student Representative, Connecticut Psychological Association
     </div>
   </div>
@@ -273,28 +273,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Mar 2024—Present</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Member, The International Society for Ecological Psychology
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Oct 2020—Present</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Member, Psychonomic Society
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Dec 2020—May 2025</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Student Affiliate, The Institute for the Brain and Cognitive Sciences
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Sept 2020—May 2025</div>
-    <div>
+    <div style="white-space: nowrap; overflow-wrap: normal;">
       Member, NAACP Youth & College Division
     </div>
   </div>
