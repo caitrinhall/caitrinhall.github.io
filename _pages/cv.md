@@ -245,38 +245,38 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Service & Community Outreach
 
-  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="width: 120px; padding-right: 20px; box-sizing:border-box;">
       May - Aug 2024
     </div>
-    <div style="flex: 1 1 auto; min-width: 150px;">
+    <div style="flex: 1; min-width: 150px;">
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
   </div>
 
-  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="width: 120px; padding-right: 20px; box-sizing:border-box;">
       Jan 2021 - Dec 2023
     </div>
-    <div style="flex: 1 1 auto; min-width: 150px;">
+    <div style="flex: 1; min-width: 150px;">
       Lab Coordinator, Social-Ecological and Environmental
     </div>
   </div>
   
-  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="width: 120px; padding-right: 20px; box-sizing:border-box;">
       Jan 2022
     </div>
-    <div style="flex: 1 1 auto; min-width: 150px;">
+    <div style="flex: 1; min-width: 150px;">
       Panelist, CT Science Center STEM Career Showcase
     </div>
   </div>
 
-  <div style="display: flex; max-width: 100%;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%;">
     <div style="width: 120px; padding-right: 20px; box-sizing:border-box;">
       Jan - Dec 2021
     </div>
-    <div style="flex: 1 1 auto; min-width: 150px;">
+    <div style="flex: 1; min-width: 150px;">
       Deputy Student Representative, Connecticut Psychological Association
     </div>
   </div>
