@@ -95,7 +95,7 @@ redirect_from:
     </div>
   </div>
 
-    <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%;">
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%;">
     <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
     <i>Spring 2023</i>
     </div>
@@ -177,7 +177,7 @@ redirect_from:
     </div>
   </div>
 
-    <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%;">
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%;">
     <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
     <i>Spring 2020</i>
     </div>
@@ -258,15 +258,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <b>Undergraduate Awards:</b>
 <ul style="margin-left: 40px; padding-left: 0; list-style-type: none;">
-  <li>2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)</li>
+  <li>2019 PCLB Undergraduate Psychological Sciences Research Grant ($850)</li>
   <li>2019 New England Scholar, University of Connecticut</li>
-  <li>2019 Global Citizen Scholarship (\$450)</li>
-  <li>2019 McMahon Family Endowment for Global Education (\$750)</li>
+  <li>2019 Global Citizen Scholarship ($450)</li>
+  <li>2019 McMahon Family Endowment for Global Education ($750)</li>
   <li>2018 New England Scholar, University of Connecticut</li>
   <li>2018 Sophomore Honors Award, University of Connecticut</li>
-  <li>2016 Bobb-Koths Plant Science Scholarship (\$1,200)</li>
-  <li>2016 Smyrski Farm Scholarship (\$1,200)</li>
-  <li>2015-19 Presidential Scholars Award for Valedictorians (\$15,000/year)</li>
+  <li>2016 Bobb-Koths Plant Science Scholarship ($1,200)</li>
+  <li>2016 Smyrski Farm Scholarship ($1,200)</li>
+  <li>2015-19 Presidential Scholars Award for Valedictorians ($15,000/year)</li>
 </ul>
 
 ## Service & Community Outreach
