@@ -284,37 +284,37 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Professional Memberships
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="width: 200px; flex-shrink: 0; margin-right: 20px; overflow-wrap:break-word;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Mar 2024-Present
     </div>
-    <div style="flex:1 1 0; min-width:0;">
+    <div style="flex: 1; min-width: 150px;">
       Member, The International Society for Ecological Psychology
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Oct 2020-Present
     </div>
-    <div style="flex:1 1 0; min-width:0;">
+    <div style="flex: 1; min-width: 150px;">
       Member, Psychonomic Society
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Dec 2020-May 2025
     </div>
-    <div style="flex:1 1 0; min-width:0;">
+    <div style="flex: 1; min-width: 150px;">
       Student Affiliate, The Institute for the Brain and Cognitive Sciences
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
+    <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Sept 2020-May 2025
     </div>
-    <div style="flex:1 1 0; min-width:0;">
+    <div style="flex: 1; min-width: 150px;">
       Member, NAACP Youth & College Division
     </div>
   </div>
