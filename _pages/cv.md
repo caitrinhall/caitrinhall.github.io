@@ -245,7 +245,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Service & Community Outreach
 
-  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       May-Aug 2024
     </div>
@@ -254,7 +254,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Jan 2021-Dec 2023
     </div>
@@ -263,7 +263,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
   
-  <div style="display: flex; max-width: 100%; margin-bottom: 5px;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Jan 2022
     </div>
@@ -272,7 +272,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
     </div>
   </div>
 
-  <div style="display: flex; max-width: 100%;">
+  <div style="margin-left: 40px; display: flex; max-width: 100%;">
     <div style="width: 200px; padding-right: 20px; box-sizing:border-box;">
       Jan-Dec 2021
     </div>
@@ -284,7 +284,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Professional Memberships
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px; overflow-wrap:break-word;">
+    <div style="width: 200px; flex-shrink: 0; margin-right: 20px; overflow-wrap:break-word;">
       Mar 2024-Present
     </div>
     <div style="flex:1 1 0; min-width:0;">
