@@ -36,7 +36,7 @@ redirect_from:
   Connecticut College, New London</p>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2025</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
@@ -44,7 +44,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2025</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2025</div>
     <div>
       <b>PSY 202 Research Methods in Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
@@ -52,7 +52,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2024</div>
     <div>
       <b>PSY 207 Cognitive Psychology</b><br>
       <b>PSY 208 Health Psychology</b><br>
@@ -63,7 +63,7 @@ redirect_from:
   University of Connecticut, Storrs & Hartford</p>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2024</div>
     <div>
       <b>PSYC 2501 Cognitive Psychology</b><br>
       University of Connecticut, Hartford
@@ -71,7 +71,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2023</div>
     <div>
       <b>UNIV 1800 First-Year Experience University Learning Skills</b><br>
       University of Connecticut, Storrs
@@ -79,7 +79,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Summer 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Summer 2023</div>
     <div>
       <b>PSYC 2501 Cognitive Psychology</b><br>
       University of Connecticut, Distance Learning
@@ -87,7 +87,7 @@ redirect_from:
   </div>
 
     <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2023</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       University of Connecticut, Hartford
@@ -98,7 +98,7 @@ redirect_from:
   University of Connecticut, Storrs</p>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2024</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Section: 047 (Honors)
@@ -106,7 +106,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2024</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Sections: 060, 008
@@ -114,7 +114,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2023</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Sections: 035, 037, 047 (Honors)
@@ -122,7 +122,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2023</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Section: 012 (Honors)
@@ -130,7 +130,7 @@ redirect_from:
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2022</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2022</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Sections: 007 (Honors), 047 (Honors)
@@ -138,7 +138,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2021</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2021</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Section: 028
@@ -146,7 +146,7 @@ redirect_from:
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Fall 2020</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2020</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Section: 003
@@ -154,7 +154,7 @@ redirect_from:
   </div>
 
     <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 10px;">Spring 2020</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2020</div>
     <div>
       <b>PSYC 1100 General Psychology I</b><br>
       Section: 022
@@ -241,29 +241,29 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Service & Community Outreach
 
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">May—Aug 2024</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">May—Aug 2024</div>
     <div>
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Jan 2021—Dec 2023</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Jan 2021—Dec 2023</div>
     <div>
       Lab Coordinator, Social-Ecological and Environmental
     </div>
   </div>
   
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Jan 2022</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Jan 2022</div>
     <div>
       Panelist, CT Science Center STEM Career Showcase
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Jan—Dec 2021</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Jan—Dec 2021</div>
     <div>
       Deputy Student Representative, Connecticut Psychological Association
     </div>
@@ -271,29 +271,29 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Professional Memberships
 
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Mar 2024—Present</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Mar 2024—Present</div>
     <div>
       Member, The International Society for Ecological Psychology
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Oct 2020—Present</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Oct 2020—Present</div>
     <div>
       Member, Psychonomic Society
     </div>
   </div>
   
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Dec 2020—May 2025</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Dec 2020—May 2025</div>
     <div>
       Student Affiliate, The Institute for the Brain and Cognitive Sciences
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 1000px;">
-    <div style="width: 220px;">Sept 2020—May 2025</div>
+  <div style="margin-left: 40px; display: flex; max-width: 100%;">
+    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Sept 2020—May 2025</div>
     <div>
       Member, NAACP Youth & College Division
     </div>
