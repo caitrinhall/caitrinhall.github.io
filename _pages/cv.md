@@ -242,28 +242,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Service & Community Outreach
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">May—Aug 2024</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">May—Aug 2024</div>
     <div>
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Jan 2021—Dec 2023</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Jan 2021—Dec 2023</div>
     <div>
       Lab Coordinator, Social-Ecological and Environmental
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Jan 2022</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Jan 2022</div>
     <div>
       Panelist, CT Science Center STEM Career Showcase
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Jan—Dec 2021</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Jan—Dec 2021</div>
     <div>
       Deputy Student Representative, Connecticut Psychological Association
     </div>
@@ -272,28 +272,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Professional Memberships
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Mar 2024—Present</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Mar 2024—Present</div>
     <div>
       Member, The International Society for Ecological Psychology
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Oct 2020—Present</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Oct 2020—Present</div>
     <div>
       Member, Psychonomic Society
     </div>
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Dec 2020—May 2025</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Dec 2020—May 2025</div>
     <div>
       Student Affiliate, The Institute for the Brain and Cognitive Sciences
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 150px; flex-shrink: 0; margin-right: 20px;">Sept 2020—May 2025</div>
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">Sept 2020—May 2025</div>
     <div>
       Member, NAACP Youth & College Division
     </div>
