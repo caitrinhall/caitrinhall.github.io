@@ -246,8 +246,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## Service & Community Outreach
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">May—Aug 2024</div>
-    <div style="flex:1 1 0; min-width:0;">
+    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px; word-wrap: break-word;">
+      May—Aug 2024
+    </div>
+    <div style="flex: 1 1 0; min-width: 0;">
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
     </div>
   </div>
