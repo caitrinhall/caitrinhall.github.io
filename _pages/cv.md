@@ -69,94 +69,118 @@ redirect_from:
   University of Connecticut, Storrs & Hartford</p>
 
   <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2024</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Spring 2024</i>
+    </div>
     <div>
-      <b>PSYC 2501 Cognitive Psychology</b>
+      PSYC 2501 Cognitive Psychology
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Fall 2023</i>
+    </div>
     <div>
-      <b>UNIV 1800 First-Year Experience University Learning Skills</b>
+      UNIV 1800 First-Year Experience University Learning Skills
     </div>
   </div>
 
   <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Summer 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Summer 2023</i>
+    </div>
     <div>
-      <b>PSYC 2501 Cognitive Psychology</b>
+      PSYC 2501 Cognitive Psychology
     </div>
   </div>
 
     <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2023</div>
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+    <i>Spring 2023</i>
+    </div>
     <div>
-      <b>PSYC 1100 General Psychology I</b>
+      PSYC 1100 General Psychology I
     </div>
   </div>
 
   <p><b>Teaching Assistantships</b><br>
   University of Connecticut, Storrs</p>
   
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2024</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Fall 2024</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Section: 047 (Honors)
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2024</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Spring 2024</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Sections: 060, 008
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2023</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Fall 2023</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Sections: 035, 037, 047 (Honors)
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2023</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Spring 2023</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Section: 012 (Honors)
     </div>
   </div>
   
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2022</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Fall 2022</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Sections: 007 (Honors), 047 (Honors)
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2021</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Spring 2021</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Section: 028
     </div>
   </div>
 
-  <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 10px;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Fall 2020</div>
+  <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%; margin-bottom: 10px;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+      <i>Fall 2020</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Section: 003
     </div>
   </div>
 
-    <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">Spring 2020</div>
+    <div style="margin-left: 40px; display: flex; flex-wrap:wrap; max-width: 100%;">
+    <div style="min-width: 120px; flex-shrink: 0; margin-right: 20px;">
+    <i>Spring 2020</i>
+    </div>
     <div>
       PSYC 1100 General Psychology I<br>
       Section: 022
