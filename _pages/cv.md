@@ -247,7 +247,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">
-      May — Aug 2024
+      May - Aug 2024
     </div>
     <div style="flex: 1 1 0; min-width: 0;">
       Interim Financial Secretary, UConn Graduate Employee & Postdoc Union
@@ -256,7 +256,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Jan 2021 — Dec 2023
+      Jan 2021 - Dec 2023
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Lab Coordinator, Social-Ecological and Environmental
@@ -274,7 +274,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
     <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Jan — Dec 2021
+      Jan - Dec 2021
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Deputy Student Representative, Connecticut Psychological Association
@@ -285,7 +285,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
     <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">
-      Mar 2024—Present
+      Mar 2024 - Present
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Member, The International Society for Ecological Psychology
@@ -293,8 +293,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Oct 2020—Present
+    <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">
+      Oct 2020 - Present
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Member, Psychonomic Society
@@ -302,8 +302,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
   
   <div style="margin-left: 40px; display: flex; max-width: 100%; margin-bottom: 5px;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Dec 2020—May 2025
+    <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">
+      Dec 2020 - May 2025
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Student Affiliate, The Institute for the Brain and Cognitive Sciences
@@ -311,8 +311,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   </div>
 
   <div style="margin-left: 40px; display: flex; max-width: 100%;">
-    <div style="min-width: 200px; flex-shrink: 0; margin-right: 20px;">
-      Sept 2020—May 2025
+    <div style="flex:0 1 auto; margin-right:40px; overflow-wrap:break-word;">
+      Sept 2020 - May 2025
     </div>
     <div style="flex:1 1 0; min-width:0;">
       Member, NAACP Youth & College Division
