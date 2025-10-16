@@ -221,7 +221,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <br>University of Connecticut</p>
 
 <b>Travel Awards:</b>
-<ul style="margin-left:40px; padding-left:0; list-style-type:none;">
+<ul style="margin-left:40px; padding-left: 0; list-style-type: none;">
   <li>2024 International Society for Ecological Psychology William Mace Travel Fund ($400)</li>
   <li>2024 UConn Graduate School Conference Participation Award ($750)</li>
   <li>2023 UConn Psychological Sciences Department Travel Award ($500)</li>
@@ -231,7 +231,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </ul>
 
 <b>Undergraduate Awards:</b>
-<ul style="margin-left: 40px;">
+<ul style="margin-left: 40px; padding-left: 0; list-style-type: none;">
   <li>2019 PCLB Undergraduate Psychological Sciences Research Grant (\$850)</li>
   <li>2019 New England Scholar, University of Connecticut</li>
   <li>2019 Global Citizen Scholarship (\$450)</li>
