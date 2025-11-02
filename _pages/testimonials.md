@@ -9,11 +9,11 @@ redirect_from:
 {% include base_path %}
 
 <br>
-"Professor Hall is by far one of the kindest and most genuine professors I have ever had. She is incredibly intelligent and her knowledge on the topics we learn about is evident, yet she is incredibly patient with us when we dont’t understand and teaches the material to us in a way that we are easily able to understand. I have learned so much from her in this class and it has allowed to to look at my interests from a different perspective that is incredibly important and impactful."
+"Professor Hall is by far one of the kindest and most genuine professors I have ever had. She is incredibly intelligent and her knowledge on the topics we learn about is evident, yet she is incredibly patient with us when we don’t understand and teaches the material to us in a way that we are easily able to understand. I have learned so much from her in this class and it has allowed to to look at my interests from a different perspective that is incredibly important and impactful."
 <div style="text-align: right;">— Connecticut College student from Health Psychology, Fall 2024</div>
 <br>
 <br>
-"What by far had the most impact was the way that Professor Hall ran the class and the way that she made it feel like such a safe space to ask questions. She makes me feel empowered to be able to succeed regardless of what may make it more difficult and has created such a safe and comfortable environment that I know that if I struggle with anything I can go to her and she will help me succeed...I genuinely feel so connected to her and I hope to take as many classes with her as I can. It is incredibly clear from this semester that being a professor is what she is meant to do (provided that is what she wants to do!). Professor Hall has made such an impact on so many students, especially someone like me, and not having her here would be a profound loss."
+"Professor Hall made it feel like a safe space to ask questions. She makes me feel empowered to be able to succeed regardless of what may make it more difficult and has created such a safe and comfortable environment that I know that if I struggle with anything I can go to her and she will help me succeed...I genuinely feel so connected to her and I hope to take as many classes with her as I can. It is incredibly clear from this semester that being a professor is what she is meant to do (provided that is what she wants to do!). Professor Hall has made such an impact on so many students, especially someone like me, and not having her here would be a profound loss."
 <div style="text-align: right;">— Connecticut College student from Health Psychology, Fall 2024</div>
 <br>
 <br>
